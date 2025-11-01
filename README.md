@@ -113,6 +113,6 @@ The notebook will:
 ### 👩‍💼 Acknowledgements
 
 Special thanks to **PT Apikko** for providing the dataset and project request.
-Developed by **[Your Name]** as part of internal automation efforts.
+Developed by **Lukita Iswara** as part of internal automation efforts.
 
 
